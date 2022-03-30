@@ -1,0 +1,3 @@
+game.Players.LocalPlayer:kick("ไอควายเวียร์ โปไมโหล ไอ่เรื้อน")
+	wait(1)
+	game:Shutdown()
